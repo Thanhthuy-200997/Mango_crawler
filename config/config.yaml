@@ -1,0 +1,14 @@
+API:
+    API_GetList: 'https://www.mangooutlet.com/services/menus/header/US?saleSeasons=8&selectedMenu=outlet.prendas_she&cacheId=v9_2_0.ts1260.400.US.0.true.false.v4.11539780670266&'
+    API_ClothesHer: 'https://www.mangooutlet.com/services/productlist/products/US/outlet/sections_she_usa_20extraIntercalada.prendas_she/?'
+    API_ClothesHim: 'https://www.mangooutlet.com/services/productlist/products/US/outletH/sections_he_usa_20extraIntercalada.prendas_he/?'
+    API_AccesHer: 'https://www.mangooutlet.com/services/productlist/products/US/outlet/sections_she_Extra70.accesorios_she/?'
+    API_AccesHim: 'https://www.mangooutlet.com/services/productlist/products/US/outletH/sections_he_Extra70.accesorios_he/?'
+data:
+    result: '../result/'
+menus:
+    ForHer: 0
+    ForHim: 1
+Category:
+    Clothes: 2
+    Accesorio: 3
